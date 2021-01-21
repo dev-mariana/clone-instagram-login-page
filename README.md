@@ -1,4 +1,4 @@
-# <h2>Clone da Página de login do Instagram - A Clone of the Instagram Login Page</h2>
+# <h2 align="center">Clone da Página de login do Instagram - A Clone of the Instagram Login Page</h2>
 
 <p align="center">Um clone da página de login do Instagram.</p>
 <p align="center">A clone of the instagram login page.</p>
