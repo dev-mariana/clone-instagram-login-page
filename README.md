@@ -9,7 +9,7 @@
 
 # <h2 align="center">Responsive:</h2>
 
-<center><img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/mobile.PNG" width="50%"></center> 
+<center><img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/mobile.PNG" width="50%" align="center"></center> 
 
 # <h2>Tecnologias - Technologies:</h2>
 
