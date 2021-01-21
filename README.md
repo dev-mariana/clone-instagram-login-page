@@ -6,8 +6,8 @@
 # <h2 align="center">Web and Responsive:</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;>
-  <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/web.PNG" width="50%"> 
-  <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/mobile.PNG" width="50%">
+  <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/web.PNG" width="150"> 
+  <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/mobile.PNG" width="150">
 </div>
 
 # <h2>Tecnologias - Technologies:</h2>
