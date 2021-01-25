@@ -9,6 +9,8 @@
   <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/web.PNG" width="100%"> 
 </div>
 
+# <h2 align="center">Responsive:</h2>
+
 <div align="center">
   <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/mobile.PNG" width="50%">
 </div>
