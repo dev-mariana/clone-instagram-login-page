@@ -3,7 +3,7 @@
 <p align="center">Um clone da página de login do Instagram.</p>
 <p align="center">A clone of the instagram login page.</p>
 
-# <h2 align="center">Web e Responsive:</h2>
+# <h2 align="center">Web:</h2>
 
 <div align="center">
   <img src="https://github.com/dev-mariana/clone-instagram-login-page/blob/main/img/web.PNG" width="100%"> 
